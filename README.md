@@ -25,4 +25,4 @@
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=mrjatinchauhan&count_private=true&show_icons=true/> </p>
 
-<p align="center"> <img src=https://visitor-badge.glitch.me/badge?page_id=mrjatinchauhan alt=mrjatinchauhan/> </p>
+<p align="center"> <img src=https://visitor-badge.glitch.me/badge?page_id=mrjatinchauhan/> </p>
