@@ -1,8 +1,8 @@
 <!-- 
-    Github : mrjatinchauhan
+    Github : iamjatinchauhan
 -->
 
-<h1 align="center"><a href="https://mrjatinchauhan.github.io">About me</a></h1>
+<h1 align="center"><a href="https://iamjatinchauhan.github.io">About me</a></h1>
 
 <h3 align="center">Working on the Web, For the Web.</h3>
 
@@ -23,6 +23,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/python/python-original.svg" alt=python width="40" height="40"/>
 </p>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=mrjatinchauhan&count_private=true&show_icons=true/> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=iamjatinchauhan&count_private=true&show_icons=true/> </p>
 
-<p align="center"> <img src=https://visitor-badge.glitch.me/badge?page_id=mrjatinchauhan> </p>
+<p align="center"> <img src=https://visitor-badge.glitch.me/badge?page_id=iamjatinchauhan> </p>
